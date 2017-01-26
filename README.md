@@ -46,10 +46,10 @@ Specify your Hex Color:
 
 ```swift
 view.backgroundColor = UIColor.hex(hex: "#FB8DB4")
-```swift
+```
 
 Using Builded Color
-```
+```swift
 view.backgroundColor = UIColor.red200
 view.textLble.textColor = UIColor.green500
 ```
