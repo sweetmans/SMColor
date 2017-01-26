@@ -1,6 +1,0 @@
-framework module SMColor {
-  umbrella header "SMColor-umbrella.h"
-
-  export *
-  module * { export * }
-}

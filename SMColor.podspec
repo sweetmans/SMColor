@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'SMColor'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of SMColor.'
+  s.summary          = 'UIColor Extension provice most popular builded color.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,10 +18,23 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+Features
+
+ Categories for UIColor
+ So easy to use.
+ Support Swift 3.0
+ Performances!
+ Use GCD and ARC
+Requirements
+
+iOS 10.0 or later
+watchOS 3.0 or later
+OS X 12.0 or later
+Xcode 8.0 or later
+Getting Started
                        DESC
 
-  s.homepage         = 'https://github.com/sweetmancc/SMColor'
+  s.homepage         = 'https://github.com/sweetmans/SMColor'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'sweetmans' => 'ceo@sweetman.cc' }
