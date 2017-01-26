@@ -1,0 +1,16 @@
+PODS:
+  - SMColor (0.1.0)
+
+DEPENDENCIES:
+  - SMColor (from `../`)
+
+EXTERNAL SOURCES:
+  SMColor:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SMColor: ec256732710e6c6da9c5b3ccf30cf1c7f868ebcb
+
+PODFILE CHECKSUM: 615be7964a9b2fe2dda62ad5328aaa3f830aebaa
+
+COCOAPODS: 1.2.0.rc.1
