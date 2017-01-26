@@ -1,10 +1,10 @@
 # SMColor
 
-[![CI Status](http://img.shields.io/travis/sweetmans/SMColor.svg?style=flat)](https://travis-ci.org/sweetmans/SMColor)
+[![Build Status](https://travis-ci.org/sweetmans/SMColor.svg?branch=0.2.0)](https://travis-ci.org/sweetmans/SMColor)
 [![Version](https://img.shields.io/cocoapods/v/SMColor.svg?style=flat)](http://cocoapods.org/pods/SMColor)
 [![License](https://img.shields.io/cocoapods/l/SMColor.svg?style=flat)](http://cocoapods.org/pods/SMColor)
 [![Platform](https://img.shields.io/cocoapods/p/SMColor.svg?style=flat)](http://cocoapods.org/pods/SMColor)
-[![Bank](https://img.shields.io/cocoapods/p/SMColor.svg?style=flat)](http://cocoapods.org/pods/SMColor)
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
