@@ -1,7 +1,7 @@
 # SMColor
 
 <p align="center" >
-  <img src="https://github.com/sweetmans/SMColor/blob/master/SMColor/Assets/swcolor.pngs" title="SWColor" float=left>
+  <img src="https://github.com/sweetmans/SMColor/blob/master/SMColor/Assets/swcolor.png" title="SWColor" float=left>
 </p>
 <p align="center">
 SMColor Create By Sweetman, Inc
