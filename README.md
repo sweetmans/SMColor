@@ -1,7 +1,7 @@
 # SMColor
 
 <p align="center" >
-  <img src="Assets/swcolor.png" title="SWColor" float=left>
+  <img src="https://github.com/sweetmans/SMColor/blob/master/SMColor/Assets/swcolor.pngs" title="SWColor" float=left>
 </p>
 <p align="center">
 SMColor Create By Sweetman, Inc
@@ -14,7 +14,7 @@ SMColor Create By Sweetman, Inc
 ## Features
 
 - [x] Categories for `UIColor`
-- [x] So easy to use.
+- [x] So easy to use.x
 - [x] Support Swift 3.0
 - [x] Performances!
 - [x] Use GCD and ARC
@@ -44,9 +44,9 @@ import SMColor
 
 Specify your Hex Color:
 
-```
+```swift
 view.backgroundColor = UIColor.hex(hex: "#FB8DB4")
-```
+```swift
 
 Using Builded Color
 ```
@@ -61,7 +61,6 @@ All source code is licensed under the [MIT License](https://raw.github.com/rs/SD
 
 ## Author
 
-- [x] Created by Sweet MAN on 16/10/29.
-- [x] Sweetman Inc. in GuangZhou
+- [x] Created by Sweetman, Inc on 2017.
 - [x] GuangZhou City. CN 510000 
 - [x] [https://www.sweetman.cc](https://www.sweetman.cc)
