@@ -42,6 +42,9 @@ import SMColor
 
 ### Use
 
+<p align="center" >
+  <img src="https://github.com/sweetmans/SMColor/blob/master/SMColor/Assets/type.png" title="SWColor" float=left>
+</p>
 Specify your Hex Color:
 
 ```swift
